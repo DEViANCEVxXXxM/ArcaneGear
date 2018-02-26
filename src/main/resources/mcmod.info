@@ -1,0 +1,16 @@
+[
+{
+  "modid": "arcanegear",
+  "name": "Arcane Gear",
+  "description": "May Arcane Save You",
+  "version": "reborn-001",
+  "mcversion": "1.12.2",
+  "url": "https://minecraft.curseforge.com/projects/arcane-gear",
+  "updateUrl": "",
+  "authorList": ["DEViANCE"],
+  "credits": "Hello World",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

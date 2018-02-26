@@ -1,0 +1,13 @@
+{
+   "pack": {
+      "pack_format": 3,
+      "description": "arcanegear"
+   },
+   "language": {
+      "EN_en": {
+         "name": "English",
+         "region": "EN_en",
+         "bidirectional": false
+      }
+   }
+}
